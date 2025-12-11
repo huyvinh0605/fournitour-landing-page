@@ -1,0 +1,6 @@
+# Ignore PDF files
+*.pdf
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
